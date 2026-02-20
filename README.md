@@ -1,4 +1,4 @@
-# Hi there, I'm Liquid MC 👋
+# Hi there, I'm Woopsy 👋
 
 I'm a passionate *Web Developer* who loves creating interactive and visually appealing websites and applications. I enjoy working with both *frontend* and *backend* technologies to bring ideas to life.
 
@@ -27,5 +27,5 @@ I'm a passionate *Web Developer* who loves creating interactive and visually app
 - *Next.js* for fullstack React applications
 
 ## 📫 How to Reach Me
-- Email: *your.email@example.com*
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- Email: *joshuapaculaba97@gmail.com*
+- GitHub: [https://github.com/Woopsyyy](https://github.com/Woopsyyy)
