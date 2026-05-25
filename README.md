@@ -1,4 +1,4 @@
-# Hi there, I'm Woopsy 👋
+# Hi there, I'm Josh 👋
 
 I'm a passionate *Web Developer* who loves creating interactive and visually appealing websites and applications. I enjoy working with both *frontend* and *backend* technologies to bring ideas to life.
 
